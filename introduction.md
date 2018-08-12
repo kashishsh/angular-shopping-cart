@@ -13,3 +13,5 @@
       };
 
 - npm install --save firebase@4.2.0 angularfire2@4.0.0-rc.1
+- npm install --save bootstrap
+- 

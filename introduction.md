@@ -18,3 +18,8 @@
 
 - User ngBootstrap for getting the Bootstrap 4 components powered by Angular
 
+- To deploy :
+  1. Install firebase tools
+  2. Init firebase
+  3. ng build --prod
+  4. firebase deploy
